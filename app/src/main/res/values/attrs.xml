@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MySelectView">
+        <!--textviewpadding-->
+        <attr name="textPadding_top" format="dimension"/>
+        <attr name="textPadding_bottom" format="dimension"/>
+        <attr name="textPadding_left" format="dimension"/>
+        <attr name="textPadding_right" format="dimension"/>
+
+        <!--文字大小 和颜色-->
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+
+        <!--textView margin-->
+        <attr name="textMargin_top" format="dimension"/>
+        <attr name="textMargin_bottom" format="dimension"/>
+        <attr name="textMargin_left" format="dimension"/>
+        <attr name="textMargin_right" format="dimension"/>
+
+    </declare-styleable>
+
+
+</resources>
